@@ -19,5 +19,12 @@ entries:
       - title: filler
         url: hideandcseek50.html
 
+  - title: contact
+    entries:
+      - title: email
+        url: mailto:jploof@college.harvard.edu
+      - title: linkedin
+        url: https://www.linkedin.com/in/jackploof/
+
   - title: other
     url: other.html
