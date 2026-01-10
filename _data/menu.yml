@@ -28,6 +28,6 @@ entries:
     url: resume.pdf
   
   - title: another list
-      entries:
-        - title: Hide and CSeek50
-          url: hideandcseek50.html
+    entries:
+      - title: Hide and CSeek50
+        url: hideandcseek50.html
