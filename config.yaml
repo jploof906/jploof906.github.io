@@ -1,0 +1,3 @@
+remote_theme: Cayman
+plugins:
+  - jekyll-remote-theme
