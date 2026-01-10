@@ -29,7 +29,3 @@ entries:
       entries:
         - title: Hide and CSeek50
           url: hideandcseek50
-
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
