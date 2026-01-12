@@ -15,9 +15,9 @@ entries:
         url: hideandcseek50.html
 
   - title: science
-    entries:
-      - title: filler
-        url: hideandcseek50.html
+    #entries:
+      #- title: filler
+        #url: hideandcseek50.html
 
   - title: contact
     entries:
